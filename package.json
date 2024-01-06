@@ -1,0 +1,15 @@
+{
+  "name": "wc-fashion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "wpi18n addtextdomain && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eaglevisionit",
+  "devDependencies": {
+    "fs-extra": "^11.1.1",
+    "node-wp-i18n": "^1.2.7",
+    "wp-pot": "^1.10.2"
+  }
+}
