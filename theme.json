@@ -193,11 +193,11 @@
 			"outer": "var(--wp--custom--small, 1.25rem)",
 			"typography": {
 				"font-size": {
-					"heading-one": "clamp(36px,3.5vw,56px)",
-					"heading-two": "clamp(32px,2.6vw,49px)",
+					"heading-one": "clamp(36px,3.5vw,50px)",
+					"heading-two": "clamp(32px,2.6vw,35px)",
 					"heading-three": "clamp(28px,1.9vw,36px)",
 					"heading-four": "clamp(18px,2vw,22px)",
-					"heading-five": "clamp(22px,1.3vw,24px)",
+					"heading-five": "clamp(19px,1.3vw,20px)",
 					"heading-six": "18px",
 					"huge-post-title": "clamp(38px,4.6vw,80px)"
 				}
