@@ -1,5 +1,5 @@
 === Wright Market Solutions ===
-Contributors: eaglethemes
+Contributors: 
 Tested up to: 6.3
 Requires at least: 5.9
 Requires PHP: 7.4
@@ -31,7 +31,7 @@ Wright Market Solutions is distributed under the terms of the GNU GPL
 
 = Does this theme support any plugins? =
 
-Wright Market Solutions includes support for WC Booster.
+
 
 
 == Resources used to build this theme ==
