@@ -13,6 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wright-market-solutions
 Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerce, featured-images, footer-widgets, full-site-editing, left-sidebar, one-column, portfolio, right-sidebar, threaded-comments, translation-ready, two-columns, wide-blocks, full-width-template, sticky-post, theme-options, block-styles, block-patterns
 */
+<<<<<<< HEAD
 .clients-img figure img{
 box-shadow: 0px 0px 7px 0px rgba(173.24999999999997, 173.24999999999997, 173.24999999999997, 0.5);
 }
@@ -20,3 +21,115 @@ box-shadow: 0px 0px 7px 0px rgba(173.24999999999997, 173.24999999999997, 173.249
 .success-cover{
     cursor: pointer;
 }
+=======
+.bnrform{
+    float: right;
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-top: 4px solid #ff541e;
+    border-radius: 8px;
+    max-width: 400px;
+    padding: 30px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    margin-right: 15%;
+    box-shadow: 0px 0px 23px rgb(0 0 0 / 31%);
+}
+.bnrform form .wpcf7-form-control-wrap input {
+    width: 100%;
+    height: 45px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    /* padding: 0px 15px; */
+    color: #000;
+    outline: 0px;
+    box-shadow: none;
+    
+}
+.bnrform form .wpcf7-form-control-wrap select{
+    width: 100%;
+    height: 45px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 0px 15px;
+    color: #000;
+    outline: 0px;
+    box-shadow: none;
+}
+
+.nav-button a::before {
+    content: "\f2a0"; /* Unicode for the specific Font Awesome icon */
+    font-size: 18px; /* Set the size of the icon */
+    margin-right: 6px; /* Adjust spacing */
+    font-family: 'Font Awesome 5 Free', sans-serif; /* Set the font-family specifically for this icon */
+    font-weight: 600; 
+    transform: rotate(-34deg);
+    color: #ff541e;
+    display: inline-block;
+}
+.elementor-icon svg{
+    height: 40px;
+    width: 3em;
+    background: #FFFFFF38;
+    padding: 18px;
+
+}
+.medical-facilities{
+    height: 650px;
+}
+
+.service-button a{
+    font-size: 14px;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #02010100;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    padding: 12px 24px;
+    text-align: center;
+    line-height: 1.5em;
+    letter-spacing: 3px;
+    font-weight: 700;
+    border-radius: 6px;
+    text-transform: uppercase;
+    display: inline-block;
+    transition: all .3s;
+
+}
+.service-button a:hover{
+        color: #000000; 
+        background-color: #fff;
+        border-color: #fff;
+        animation-name: elementor-animation-bob-float, elementor-animation-bob;
+    animation-duration: .3s,1.5s;
+    animation-delay: 0s,.3s;
+    animation-timing-function: ease-out,ease-in-out;
+    animation-iteration-count: 1,infinite;
+    animation-fill-mode: forwards;
+    animation-direction: normal,alternate;
+    
+}
+@keyframes elementor-animation-bob {
+    0% {
+        transform: translateY(-8px)
+    }
+
+    50% {
+        transform: translateY(-4px)
+    }
+
+    100% {
+        transform: translateY(-8px)
+    }
+}
+
+@keyframes elementor-animation-bob-float {
+    100% {
+        transform: translateY(-8px)
+    }
+}
+>>>>>>> 373f58a7bf3bb472664ee971fddd7a848c97c5a8
