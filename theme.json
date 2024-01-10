@@ -350,7 +350,7 @@
 					"text": "var(--wp--preset--color--primary)"
 				},
             	"typography": {
-            		"textDecoration": "underline"
+            		"textDecoration": "none"
             	},
 				":hover": {
 					"color": {
