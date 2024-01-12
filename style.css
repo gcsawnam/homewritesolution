@@ -132,14 +132,29 @@ i
 }
   
 
-.team-first,
-.team-second {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  transition: opacity 0.5s;
-}
+.member-card{
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
 
-.team-second {
-  opacity: 0;
+}
+.member-card .bio{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    left: 0;
+    top: 100%;
+    position: absolute;
+    background: #fff;
+    visibility: hidden;
+    transition: all linear 0.3s;
+    z-index: 9;
+}
+.member-card:hover {
+    box-shadow: 0 22px 32px 0 rgba(0, 0, 0, 0.1);
+}
+.member-card:hover .bio {
+    top: 0;
+    visibility: visible;
 }
