@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Clients
- * Slug: featured/clients
+ * Title: Client
+ * Slug: featured/client
  * Categories: featured
  */
 ?>
