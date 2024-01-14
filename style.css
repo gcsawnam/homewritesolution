@@ -165,6 +165,7 @@ i
     font-weight: bold;
     color: rgb(109, 109, 109);
     font: 'Poppins', sans-serif;
+    line-height: 1.2;
 }
 .leave-phone {
     padding: 0 0;
@@ -174,4 +175,22 @@ i
     --bs-gutter-y: 0;
     display: flex;
     flex-wrap: wrap;
+}
+.leave-phone h3 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #16b2ae;
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+.leave-phone>* {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    padding-right: calc(var(1.5rem)/ 2);
+    padding-left: calc(var(1.5rem)/ 2);
+    margin-top: 0;
+}
+.row-form{
+    margin: 0 10%;
 }
