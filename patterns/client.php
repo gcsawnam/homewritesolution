@@ -17,37 +17,37 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":704,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/MicrosoftTeams-image-53.jpg" alt="" class="wp-image-704"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/MicrosoftTeams-image-53.jpg" alt="" class="wp-image-704"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":705,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/abduz-logo.jpg" alt="" class="wp-image-705"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/abduz-logo.jpg" alt="" class="wp-image-705"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":706,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/Group-65.webp" alt="" class="wp-image-706"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/Group-65.webp" alt="" class="wp-image-706"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":707,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/jai-bharat-2.jpg" alt="" class="wp-image-707"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/jai-bharat-2.jpg" alt="" class="wp-image-707"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":708,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/Group-63.webp" alt="" class="wp-image-708"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/Group-63.webp" alt="" class="wp-image-708"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":709,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/simmtronics.jpg" alt="" class="wp-image-709"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/simmtronics.jpg" alt="" class="wp-image-709"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -55,37 +55,37 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":704,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/MicrosoftTeams-image-53.jpg" alt="" class="wp-image-704"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/MicrosoftTeams-image-53.jpg" alt="" class="wp-image-704"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":705,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/abduz-logo.jpg" alt="" class="wp-image-705"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/abduz-logo.jpg" alt="" class="wp-image-705"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":706,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/Group-65.webp" alt="" class="wp-image-706"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/Group-65.webp" alt="" class="wp-image-706"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":707,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/jai-bharat-2.jpg" alt="" class="wp-image-707"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/jai-bharat-2.jpg" alt="" class="wp-image-707"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":708,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/Group-63.webp" alt="" class="wp-image-708"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/Group-63.webp" alt="" class="wp-image-708"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"clients-img"} -->
 <div class="wp-block-column clients-img"><!-- wp:image {"id":709,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/simmtronics.jpg" alt="" class="wp-image-709"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/simmtronics.jpg" alt="" class="wp-image-709"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
