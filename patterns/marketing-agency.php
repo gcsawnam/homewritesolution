@@ -9,7 +9,7 @@
 <div class="wp-block-group"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"style":{"typography":{"fontSize":"25px","fontStyle":"normal","fontWeight":"500","lineHeight":"1.2"}}} -->
-<h2 class="wp-block-heading" style="font-size:25px;font-style:normal;font-weight:500;line-height:1.2">360° Digital Marketing Agency Nepal</h2>
+<h2 class="wp-block-heading" style="font-size:25px;font-style:normal;font-weight:500;line-height:1.2">360°&nbsp;Digital Marketing Agency Nepal</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400","lineHeight":"1.8"},"color":{"text":"#777777"},"elements":{"link":{"color":{"text":"#777777"}}}}} -->
@@ -18,8 +18,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":1588,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/wordpress/wp-content/uploads/2024/01/infographic.jpg" alt="" class="wp-image-1588"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":680,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/infographic.jpg" alt="" class="wp-image-680"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -30,8 +30,8 @@
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":1591,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/wordpress/wp-content/uploads/2024/01/conversion-rate-optimization-1.png" alt="" class="wp-image-1591"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":681,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/conversion-rate-optimization-1.png" alt="" class="wp-image-681"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -44,5 +44,9 @@
 <p class="has-text-color has-link-color" style="color:#777777;font-size:18px;font-style:normal;font-weight:400;line-height:1.8">Welcome to Digital Terai, one of the top digital marketing agency in Nepal helping clients boost their sales &amp; leads and grow their businesses online. Located at Kathmandu, Nepal, We thrive to produce a tangible high ROI campaign for our clients. We love to work closely with clients so that we can better get to know their business model, requirements &amp; their expectations in order to plan our strategies accordingly.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"91px"} -->
+<div style="height:91px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group -->

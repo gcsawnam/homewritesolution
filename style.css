@@ -194,3 +194,32 @@ i
 .row-form{
     margin: 0 10%;
 }
+ /* faq css goes here  */
+ .wp-block-getwid-accordion.has-icon-left .wp-block-getwid-accordion__header-wrapper a {
+    flex-direction: row;
+    justify-content: space-between;
+  padding: 14px;
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+  
+  }
+  .wp-block-getwid-accordion.has-icon-left.getwid-init.ui-accordion.ui-widget.ui-helper-reset {
+    margin-top: 20px;
+  }
+  span.wp-block-getwid-accordion__icon {
+    padding: 9px;
+    background:#383A53;
+    border-radius: 50px;
+  }
+  i.fas {
+    color: white;
+    font-size: 12px;
+  }
+  .wp-block-getwid-accordion__content p{
+    font-weight: 300;
+    color: #000;
+  }
+  .wp-block-getwid-accordion__content{
+    background-color: #fff;
+  }

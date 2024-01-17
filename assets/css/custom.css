@@ -134,3 +134,19 @@ background-color: var(--wp--preset--color--button-hover);
 .home a , .wp-block-site-title a ,.site-sidebar  a, .site-footer a{
  text-decoration: none!important;
 }
+/* new css */
+.contact-ready mark{
+    padding: 9px;
+}
+
+.contact-link a{
+        padding: 2px 6px;
+        background: #FAE5E9;
+        text-decoration: underline!important;
+}
+.contact-link a:hover{
+    background: rgba(203, 0, 40, 0.90);
+}
+.call-box{
+    border-radius: 8px;
+}

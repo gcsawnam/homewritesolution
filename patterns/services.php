@@ -6,9 +6,9 @@
  * Categories: featured
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0"},"color":{"background":"#f2e8e4"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-background" style="background-color:#f2e8e4"><!-- wp:spacer {"height":"140px"} -->
-<div style="height:140px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0"},"color":{"background":"#f2e8e4"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide has-background" style="background-color:#f2e8e4"><!-- wp:spacer {"height":"74px"} -->
+<div style="height:74px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"50px","lineHeight":"1"}}} -->
@@ -19,9 +19,9 @@
 <p class="has-text-align-center" style="margin-top:var(--wp--preset--spacing--30);font-size:18px;font-style:normal;font-weight:400">We are one of the best Digital Marketing Agency of Delhi and can take care of all your Digital Marketing Needs</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0","margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"spacing":{}},"layout":{"type":"constrained","contentSize":"1300px","wideSize":""}} -->
-<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"30px","left":"0px"}}}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0","margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="margin-top:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"full","style":{"spacing":[]},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"30px","left":"0px"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"390px","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
 <div class="wp-block-column" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:390px"><!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"top":"85px","bottom":"85px","left":"40px","right":"40px"}},"border":{"radius":{"topLeft":"10px"}}},"backgroundColor":"luminous-vivid-orange","className":"medical-facilities","layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group medical-facilities has-luminous-vivid-orange-background-color has-background" style="border-top-left-radius:10px;padding-top:85px;padding-right:40px;padding-bottom:85px;padding-left:40px"><!-- wp:group {"className":"elementor-icon","layout":{"type":"constrained"}} -->
@@ -92,8 +92,8 @@
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{}},"layout":{"type":"constrained","contentSize":"1300px","wideSize":""}} -->
-<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0px","left":"0px"}}}} -->
+<!-- wp:group {"align":"full","style":{"spacing":[]},"layout":{"type":"constrained","contentSize":"","wideSize":""}} -->
+<div class="wp-block-group alignfull"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0px","left":"0px"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"390px","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
 <div class="wp-block-column" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:390px"><!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"top":"40px","bottom":"40px","left":"40px","right":"40px"}},"color":{"background":"#19739f"},"border":{"radius":{"bottomLeft":"10px"}}},"className":"medical-facilities","layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group medical-facilities has-background" style="border-bottom-left-radius:10px;background-color:#19739f;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"className":"elementor-icon","layout":{"type":"constrained"}} -->
@@ -163,7 +163,7 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":"103px"} -->
-<div style="height:103px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":"43px"} -->
+<div style="height:43px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->
