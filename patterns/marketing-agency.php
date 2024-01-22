@@ -18,8 +18,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":680,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/infographic.jpg" alt="" class="wp-image-680"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":12328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-1.jpg" alt="" class="wp-image-12328"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -30,8 +30,8 @@
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":681,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/project/wp-content/uploads/2024/01/conversion-rate-optimization-1.png" alt="" class="wp-image-681"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":12329,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-2.png" alt="" class="wp-image-12329"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
