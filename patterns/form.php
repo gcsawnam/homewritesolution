@@ -26,7 +26,7 @@
 <div class="wp-block-group row-form" style="margin-top:0;margin-bottom:0"><!-- wp:html -->
 <div class="row leave-phone">
  <h3>Ping us:																   <a href="tel:9801187428" style=" color:#feac1e;">✆ 9801187428</a>								  								   							  </h3>					                         						
-<h3>Write us: <a href="mailto: reachout@adbhud.com" style=" color:#feac1e;">✉ reachout@adbhud.com</a>							   </h3>  </div>
+<h3>Write us: <a href="mailto: sales@wrightmarketsolutions.com" style=" color:#feac1e;">✉ sales@wrightmarketsolutions.com</a>							   </h3>  </div>
 <!-- /wp:html --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
