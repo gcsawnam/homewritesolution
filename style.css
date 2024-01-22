@@ -14,212 +14,434 @@ Text Domain: wright-market-solutions
 Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerce, featured-images, footer-widgets, full-site-editing, left-sidebar, one-column, portfolio, right-sidebar, threaded-comments, translation-ready, two-columns, wide-blocks, full-width-template, sticky-post, theme-options, block-styles, block-patterns
 */
 .clients-img figure img{
-box-shadow: 0px 0px 7px 0px rgba(173.24999999999997, 173.24999999999997, 173.24999999999997, 0.5);
-}
-i
-.success-cover{
-    cursor: pointer;
-}
-.bnrform{
-    float: right;
-    width: 100%;
-    height: auto;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-top: 4px solid #ff541e;
-    border-radius: 8px;
-    max-width: 400px;
-    padding: 30px;
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-bottom: 40px;
-    margin-right: 15%;
-    box-shadow: 0px 0px 23px rgb(0 0 0 / 31%);
-}
-.bnrform form .wpcf7-form-control-wrap input {
-    width: 100%;
-    height: 45px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    /* padding: 0px 15px; */
-    color: #000;
-    outline: 0px;
-    box-shadow: none;
-    
-}
-.bnrform form .wpcf7-form-control-wrap select{
-    width: 100%;
-    height: 45px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 0px 15px;
-    color: #000;
-    outline: 0px;
-    box-shadow: none;
-}
-
-.nav-button a::before {
-    content: "\f2a0"; /* Unicode for the specific Font Awesome icon */
-    font-size: 18px; /* Set the size of the icon */
-    margin-right: 6px; /* Adjust spacing */
-    font-family: 'Font Awesome 5 Free', sans-serif; /* Set the font-family specifically for this icon */
-    font-weight: 600; 
-    transform: rotate(-34deg);
-    color: #ff541e;
-    display: inline-block;
-}
-.elementor-icon svg{
-    height: 40px;
-    width: 3em;
-    background: #FFFFFF38;
-    padding: 18px;
-
-}
-.medical-facilities{
-    height: 650px;
-}
-
-.service-button a{
-    font-size: 14px;
-    fill: #FFFFFF;
-    color: #FFFFFF;
-    background-color: #02010100;
-    border-style: solid;
-    border-width: 1px 1px 1px 1px;
-    padding: 12px 24px;
-    text-align: center;
-    line-height: 1.5em;
-    letter-spacing: 3px;
-    font-weight: 700;
-    border-radius: 6px;
-    text-transform: uppercase;
-    display: inline-block;
-    transition: all .3s;
-
-}
-.service-button a:hover{
-        color: #000000; 
+    box-shadow: 0px 0px 7px 0px rgba(173.24999999999997, 173.24999999999997, 173.24999999999997, 0.5);
+    }
+    i
+    .success-cover{
+        cursor: pointer;
+    }
+    .bnrform{
+        float: right;
+        width: 100%;
+        height: auto;
         background-color: #fff;
-        border-color: #fff;
-        animation-name: elementor-animation-bob-float, elementor-animation-bob;
-    animation-duration: .3s,1.5s;
-    animation-delay: 0s,.3s;
-    animation-timing-function: ease-out,ease-in-out;
-    animation-iteration-count: 1,infinite;
-    animation-fill-mode: forwards;
-    animation-direction: normal,alternate;
+        border: 1px solid #ddd;
+        border-top: 4px solid #ff541e;
+        border-radius: 8px;
+        max-width: 400px;
+        padding: 30px;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-bottom: 40px;
+        margin-right: 15%;
+        box-shadow: 0px 0px 23px rgb(0 0 0 / 31%);
+    }
+    .bnrform form .wpcf7-form-control-wrap input {
+        width: 100%;
+        height: 45px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        /* padding: 0px 15px; */
+        color: #000;
+        outline: 0px;
+        box-shadow: none;
+        margin-bottom:10px;
+        font-size:15px;
+        
+    }
+    .bnrform form .wpcf7-form-control-wrap input::placeholder , .bnrform form .wpcf7-form-control-wrap textarea::placeholder{
+          padding-left: 10px; /* Adjust the value as needed */
     
-}
-@keyframes elementor-animation-bob {
-    0% {
-        transform: translateY(-8px)
+    } 
+    form p{
+        margin:0;
     }
-
-    50% {
-        transform: translateY(-4px)
+    .bnrform form .wpcf7-form-control-wrap select{
+        width: 100%;
+        height: 45px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 0px 15px;
+        color: #746c6c;
+        outline: 0px;
+        box-shadow: none;
+        font-size:15px;
     }
-
-    100% {
-        transform: translateY(-8px)
+    .bnrform form .wpcf7-form-control-wrap textarea{
+            margin-top: 10px;
+        width: 100%;
+        height: 45px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        color: #746c6c;
+        outline: 0px
+               box-shadow: none;
+        font-size:15px;
     }
-}
-
-@keyframes elementor-animation-bob-float {
-    100% {
-        transform: translateY(-8px)
+    .home-form label
+    {
+            padding-left: 3%;
+        padding-bottom: 0;
+        font-weight: bold;
+        color:#16b2ae;
+    
     }
-}
-  
-
-.member-card{
-    padding: 20px;
-    position: relative;
-    overflow: hidden;
-    margin-bottom: 20px;
-
-}
-.member-card .bio{
-    width: 100%;
-    height: 100%;
-    padding: 20px;
-    left: 0;
-    top: 100%;
-    position: absolute;
-    background: #fff;
-    visibility: hidden;
-    transition: all linear 0.3s;
-    z-index: 9;
-}
-.member-card:hover {
-    box-shadow: 0 22px 32px 0 rgba(0, 0, 0, 0.1);
-}
-.member-card:hover .bio {
-    top: 0;
-    visibility: visible;
-}
-
-/* home page form  */
-.let-chat h2 {
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: rgb(109, 109, 109);
-    font: 'Poppins', sans-serif;
-    line-height: 1.2;
-}
-.leave-phone {
-    padding: 0 0;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    margin: 0 10%;
-    --bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
-    display: flex;
-    flex-wrap: wrap;
-}
-.leave-phone h3 {
-    font-weight: bold;
-    font-size: 1.5rem;
-    color: #16b2ae;
-    text-align: center;
-    margin: 20px 0 10px 0;
-}
-.leave-phone>* {
-    flex-shrink: 0;
-    width: 100%;
-    max-width: 100%;
-    padding-right: calc(var(1.5rem)/ 2);
-    padding-left: calc(var(1.5rem)/ 2);
-    margin-top: 0;
-}
-.row-form{
-    margin: 0 10%;
-}
- /* faq css goes here  */
- .wp-block-getwid-accordion.has-icon-left .wp-block-getwid-accordion__header-wrapper a {
-    flex-direction: row;
-    justify-content: space-between;
-  padding: 14px;
-    font-size: 17px;
-    color: white;
-    font-weight: bold;
-  
-  }
-  .wp-block-getwid-accordion.has-icon-left.getwid-init.ui-accordion.ui-widget.ui-helper-reset {
-    margin-top: 20px;
-  }
-  span.wp-block-getwid-accordion__icon {
-    padding: 9px;
-    background:#383A53;
-    border-radius: 50px;
-  }
-  i.fas {
-    color: white;
-    font-size: 12px;
-  }
-  .wp-block-getwid-accordion__content p{
-    font-weight: 300;
-    color: #000;
-  }
-  .wp-block-getwid-accordion__content{
-    background-color: #fff;
-  }
+    .home-form .wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 input[type="textarea"] {
+        border-radius: 0;
+        box-shadow: none;
+        font-size: 14px;
+        border-radius: 0;
+    }
+    .home-form .wpcf7 input[type="text"], .wpcf7 input[type="email"] {
+        background-color: #fff;
+        color: #000;
+    }
+    .home-form .wpcf7-textarea,.home-form .wpcf7 input {
+        width: 100%;
+        background-color: #fff;
+        color: #444;
+        border: 2px solid #16b2ae;
+        border-radius: 5px;
+        padding: 1.5%;
+        /* margin: 1.5%; */
+    }
+    .home-form .wpcf7-select {
+        width: 100%;
+        padding: 1.5%;
+        margin-left: 2%;
+        border: 2px solid #16b2ae;
+    }
+    .nav-button a::before {
+        content: "\f2a0"; /* Unicode for the specific Font Awesome icon */
+        font-size: 18px; /* Set the size of the icon */
+        margin-right: 6px; /* Adjust spacing */
+        font-family: 'Font Awesome 5 Free', sans-serif; /* Set the font-family specifically for this icon */
+        font-weight: 600; 
+        transform: rotate(-34deg);
+        color: #ff541e;
+        display: inline-block;
+    }
+    .elementor-icon svg{
+        height: 40px;
+        width: 3em;
+        background: #FFFFFF38;
+        padding: 18px;
+    
+    }
+    .medical-facilities{
+        height: 650px;
+    }
+    
+    .service-button a{
+        font-size: 14px;
+        fill: #FFFFFF;
+        color: #FFFFFF;
+        background-color: #02010100;
+        border-style: solid;
+        border-width: 1px 1px 1px 1px;
+        padding: 12px 24px;
+        text-align: center;
+        line-height: 1.5em;
+        letter-spacing: 3px;
+        font-weight: 700;
+        border-radius: 6px;
+        text-transform: uppercase;
+        display: inline-block;
+        transition: all .3s;
+    
+    }
+    .service-button a:hover{
+            color: #000000; 
+            background-color: #fff;
+            border-color: #fff;
+            animation-name: elementor-animation-bob-float, elementor-animation-bob;
+        animation-duration: .3s,1.5s;
+        animation-delay: 0s,.3s;
+        animation-timing-function: ease-out,ease-in-out;
+        animation-iteration-count: 1,infinite;
+        animation-fill-mode: forwards;
+        animation-direction: normal,alternate;
+        
+    }
+    @keyframes elementor-animation-bob {
+        0% {
+            transform: translateY(-8px)
+        }
+    
+        50% {
+            transform: translateY(-4px)
+        }
+    
+        100% {
+            transform: translateY(-8px)
+        }
+    }
+    
+    @keyframes elementor-animation-bob-float {
+        100% {
+            transform: translateY(-8px)
+        }
+    }
+      
+    
+    .member-card{
+        padding: 20px;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 20px;
+    
+    }
+    .member-card .bio{
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+        left: 0;
+        top: 100%;
+        position: absolute;
+        background: #fff;
+        visibility: hidden;
+        transition: all linear 0.3s;
+        z-index: 9;
+    }
+    .member-card:hover {
+        box-shadow: 0 22px 32px 0 rgba(0, 0, 0, 0.1);
+    }
+    .member-card:hover .bio {
+        top: 0;
+        visibility: visible;
+    }
+    
+    /* home page form  */
+    .let-chat h2 {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: rgb(109, 109, 109);
+        font: 'Poppins', sans-serif;
+        line-height: 1.2;
+    }
+    .leave-phone {
+        padding: 0 0;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        margin: 0 10%;
+        --bs-gutter-x: 1.5rem;
+        --bs-gutter-y: 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .leave-phone h3 {
+        font-weight: bold;
+        font-size: 1.5rem;
+        color: #16b2ae;
+        text-align: center;
+        margin: 20px 0 10px 0;
+    }
+    .leave-phone>* {
+        flex-shrink: 0;
+        width: 100%;
+        max-width: 100%;
+        padding-right: calc(var(1.5rem)/ 2);
+        padding-left: calc(var(1.5rem)/ 2);
+        margin-top: 0;
+    }
+    .row-form{
+        margin: 0 10%;
+    }
+     /* faq css goes here  */
+     .wp-block-getwid-accordion.has-icon-left .wp-block-getwid-accordion__header-wrapper a {
+        flex-direction: row;
+        justify-content: space-between;
+      padding: 14px;
+        font-size: 20px;
+        color: #000;
+        font-weight: bold;
+      
+      }
+      .wp-block-getwid-accordion.has-icon-left.getwid-init.ui-accordion.ui-widget.ui-helper-reset {
+        margin-top: 20px;
+      }
+      span.wp-block-getwid-accordion__icon {
+        padding: 9px;
+        background:#383A53;
+        border-radius: 50px;
+      }
+      i.fas {
+        color: white;
+        font-size: 12px;
+      }
+      .wp-block-getwid-accordion__content p{
+        font-weight: 300;
+        color: #000;
+          font-size:20px;
+      }
+      .wp-block-getwid-accordion__content{
+        background-color: #fff;
+      }
+    /* category css goes here  */
+    .taxonomy-category a{
+         
+        position: relative;
+        top: 50px;
+        left: 25px;
+        z-index:99;
+    }
+    .taxonomy-category a{
+          
+        padding: 6px 20px;
+        display: inline-block;
+        border-radius:100px;
+        font-size:13px;
+        color:#000;
+        font-weight:600;
+    }
+    li:nth-child(odd) .taxonomy-category a{
+         background-color: #76c8a1;
+    }
+    li:nth-child(even) .taxonomy-category a{
+         background-color: #72a4db;
+    }
+    /* our work css  */
+    .portfolio-overlay {
+        position: absolute;
+        top: 0;
+        background-color: rgba(31, 31, 30, .6);
+        z-index: 2;
+        opacity: 0;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        text-align: center;
+        transition: all .5s;
+        -webkit-transition: all .5s;
+    }
+    
+    .portfolio-overlay-middle {
+        display: inline-block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateY(-50%) translateX(-50%);
+        -webkit-transform: translateY(-50%) translateX(-50%);
+        -moz-transform: translateY(-50%) translateX(-50%);
+        -ms-transform: translateY(-50%) translateX(-50%);
+        -o-transform: translateY(-50%) translateX(-50%);
+    }
+    .portfolio-overlay a {
+        display: inline-block;
+        font-size: 20px;
+        color: #fff;
+        width: 40px;
+        height: 40px;
+        line-height: 35px;
+        border-radius: 50%;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+        margin: 0 2px;
+        text-align: center;
+        border: 2px solid #fff;
+    }
+    /* submenu css goes here  */
+    .mega-sub-menu .mega-menu-item a::before{
+        content: "\f04b"; /* Unicode for the specific Font Awesome icon */
+        font-size: 12px !important; /* Set the size of the icon */
+        margin-right: 10px !important; /* Adjust spacing */
+        font-family: 'Font Awesome 5 Free', sans-serif !important; /* Set the font-family specifically for this icon */
+        font-weight: 600 !important; 
+        color:#8bc34a !important;
+    }
+    /* contact us pge css goes here  */
+    .your-information{
+        font-family: "Titillium Web", Sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+        text-transform: uppercase;
+        line-height: 1.2em;
+        color:#000;
+    }
+    .contact-top{
+        position:relative;
+        top:-188px;
+    }
+    .contact-top input[type=text], .contact-top input[type=date], .contact-top .wpcf7 input[type="email"], .contact-form input[type=number], .contact-form input[type=tel] ,.contact-top .ctn-dropdown{
+        background-color: #FFFFFF;
+        color: #101820;
+        padding: 9px 11px 9px 11px;
+        border-style: solid;
+        border-width: 1px 1px 1px 1px;
+        border-color: #10182000;
+        border-radius: 4px 4px 4px 4px;
+        font-family: "Lato", Sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        line-height: 1.4em;
+            box-shadow: 0px 1px 10px -5px rgba(0, 0, 0, 0.26);
+        margin:6px 0px;
+    }
+    .your-website{
+        font-family: "lato", Sans-serif;
+        font-size: 18px;
+        font-weight:normal;
+        line-height:1.4em;
+        color:#000;
+    
+    }
+    .contact-heading{
+            padding: 20px 0px 10px 0px;
+        margin-top:24px;
+    }
+    .contact-heading-1{
+        margin-top:16px;
+    }
+    .cont-para,.cont-ques{
+        font-size:16px;
+        color:#000;
+    }
+    .wpcf7-checkbox.cotn-check
+    {
+        display:flex;
+        flex-direction:Column;
+        gap:10px;
+    }
+    .wpcf7-checkbox.cotn-check .wpcf7-list-item input[type=checkbox]{
+            height: 20px;
+        width: 20px;
+        position: relative;
+        top: 4px;
+    }
+    .contact-gap{
+        margin:20px 0px;
+    }
+    .contact-more-your-self{
+        margin-top:20px;
+    }
+     .contact-top .wpcf7-textarea{
+            background-color: #fff;
+        color: #000;
+        padding: 9px 11px 9px 11px;
+        border-style: solid;
+        border-width: 1px 1px 1px 1px;
+        border-color: #10182000;
+        border-radius: 4px 4px 4px 4px;
+        font-family: "Lato", Sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        line-height: 1.4em;
+        box-shadow: 0px 1px 10px -5px rgba(0, 0, 0, 0.26);
+    }
+    @media only screen and (min-width: 641px){
+     .contact-top .wpcf7-textarea {
+        height: 160px;
+         width:74%;
+        }}
+    @media only screen and (min-width: 641px){
+    .contact-top .ctn-dropdown{
+        width:74%;
+        }}
+    .captche-color{
+        color:#000;
+    }
+    .ctn-submit{
+        font-size:23px;
+    }
