@@ -4,10 +4,9 @@
  * Slug: featured/team
  * Categories: featured
  */
-?>
-<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+?><!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:spacer {"height":"80px"} -->
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#012c7c"},"elements":{"link":{"color":{"text":"#012c7c"}}}},"fontSize":"medium"} -->
@@ -32,7 +31,7 @@
 <div class="wp-block-columns"><!-- wp:column {"className":"member-card"} -->
 <div class="wp-block-column member-card"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"className":"team-first","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group team-first" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--60)"><!-- wp:image {"id":675,"width":"auto","height":"325px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="" class="wp-image-675" style="width:auto;height:325px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="" class="wp-image-675" style="width:auto;height:325px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"600","lineHeight":"1"},"color":{"text":"#444444"},"elements":{"link":{"color":{"text":"#444444"}}}}} -->
@@ -76,7 +75,7 @@
 <!-- wp:column {"className":"member-card"} -->
 <div class="wp-block-column member-card"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"className":"team-first","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group team-first" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--60)"><!-- wp:image {"id":698,"width":"auto","height":"325px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="" class="wp-image-698" style="width:auto;height:325px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="" class="wp-image-698" style="width:auto;height:325px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"600","lineHeight":"1"},"color":{"text":"#444444"},"elements":{"link":{"color":{"text":"#444444"}}}}} -->
@@ -120,7 +119,7 @@
 <!-- wp:column {"className":"member-card"} -->
 <div class="wp-block-column member-card"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"className":"team-first","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group team-first" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--60)"><!-- wp:image {"id":699,"width":"auto","height":"325px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="" class="wp-image-699" style="width:auto;height:325px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="" class="wp-image-699" style="width:auto;height:325px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"600","lineHeight":"1"},"color":{"text":"#444444"},"elements":{"link":{"color":{"text":"#444444"}}}}} -->
@@ -162,7 +161,7 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":"77px"} -->
-<div style="height:77px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":"80px"} -->
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->

@@ -26,7 +26,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         height: auto;
         background-color: #fff;
         border: 1px solid #ddd;
-        border-top: 4px solid #ff541e;
+        border-top: 4px solid #004AAC;
         border-radius: 8px;
         max-width: 400px;
         padding: 30px;
@@ -102,14 +102,14 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         background-color: #fff;
         color: #444;
         border: 2px solid #16b2ae;
-        border-radius: 5px;
+        
         padding: 1.5%;
         /* margin: 1.5%; */
     }
     .home-form .wpcf7-select {
-        width: 100%;
+        width: 103%;
         padding: 1.5%;
-        margin-left: 2%;
+        /* margin-left: 2%; */
         border: 2px solid #16b2ae;
     }
     .nav-button a::before {
@@ -119,7 +119,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         font-family: 'Font Awesome 5 Free', sans-serif; /* Set the font-family specifically for this icon */
         font-weight: 600; 
         transform: rotate(-34deg);
-        color: #ff541e;
+        color: #004AAC;
         display: inline-block;
     }
     .elementor-icon svg{
@@ -278,13 +278,13 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         background-color: #fff;
       }
     /* category css goes here  */
-    .taxonomy-category a{
-         
+    .categories-section{
         position: relative;
         top: 50px;
         left: 25px;
         z-index:99;
     }
+   
     .taxonomy-category a{
           
         padding: 6px 20px;
@@ -342,6 +342,16 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         text-align: center;
         border: 2px solid #fff;
     }
+    .grid-item:hover img{
+        transform: rotate(-8deg) scale(1.2);
+    -webkit-transform: rotate(-8deg) scale(1.2);
+    }
+    .grid-item img{
+        transition: all .5s ease-in-out;
+    }
+    .grid-item:hover .portfolio-overlay{
+        opacity: 1;
+    }
     /* submenu css goes here  */
     .mega-sub-menu .mega-menu-item a::before{
         content: "\f04b"; /* Unicode for the specific Font Awesome icon */
@@ -349,7 +359,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         margin-right: 10px !important; /* Adjust spacing */
         font-family: 'Font Awesome 5 Free', sans-serif !important; /* Set the font-family specifically for this icon */
         font-weight: 600 !important; 
-        color:#8bc34a !important;
+        color: #004aac !important;
     }
     /* contact us pge css goes here  */
     .your-information{
@@ -445,3 +455,47 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
     .ctn-submit{
         font-size:23px;
     }
+    /* blog-post css goes here  */
+    .blog-post-box-shadow{
+        overflow: hidden;
+    box-shadow: 0 6px 20px rgba(0,0,0,.2);
+}
+.wp-block-post-excerpt__excerpt{
+    font-size: 16px;
+    line-height: 25px;
+    color: #12222c;
+
+
+}
+.read-more-icon::after{
+ 
+    content: "\f178"; /* Unicode for the specific Font Awesome icon */
+    font-size: 12px !important; /* Set the size of the icon */
+    margin-right: 10px !important; /* Adjust spacing */
+    font-family: 'Font Awesome 5 Free', sans-serif !important; /* Set the font-family specifically for this icon */
+    font-weight: 600 !important; 
+    color: red;
+}
+/* footer css goes here 0     */
+.arrow-right a::before{
+    content: "\f105"; /* Unicode for the specific Font Awesome icon */
+    font-size: 17px !important; /* Set the size of the icon */
+    margin-right: 9px !important; /* Adjust spacing */
+    font-family: 'Font Awesome 5 Free', sans-serif !important; /* Set the font-family specifically for this icon */
+    font-weight: 600 !important; 
+}
+.location-add::before{
+    content: "\f3c5"; /* Unicode for the specific Font Awesome icon */
+    font-size: 17px !important; /* Set the size of the icon */
+    margin-right: 9px !important; /* Adjust spacing */
+    font-family: 'Font Awesome 5 Free', sans-serif !important; /* Set the font-family specifically for this icon */
+    font-weight: 600 !important; 
+}
+.arrow-right {
+  
+    transition: all linear 0.3s;
+}
+.arrow-right:hover{
+    transform: translate(6px, 0);
+
+}

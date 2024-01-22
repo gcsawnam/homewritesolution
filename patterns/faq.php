@@ -5,52 +5,46 @@
  * Categories: featured
  */
 ?>
-<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:spacer {"height":"80px"} -->
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"48px","fontStyle":"normal","fontWeight":"600","lineHeight":"1"},"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"textColor":"black","fontFamily":"kanit"} -->
 <h2 class="wp-block-heading has-text-align-center has-black-color has-text-color has-link-color has-kanit-font-family" style="margin-bottom:var(--wp--preset--spacing--50);font-size:48px;font-style:normal;font-weight:600;line-height:1">Frequently Asked Questions</h2>
 <!-- /wp:heading -->
 
-<!-- wp:spacer {"height":"16px"} -->
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:getwid/accordion -->
 <div class="wp-block-getwid-accordion has-icon-left" data-active-element="none"><!-- wp:getwid/accordion-item -->
-<div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">WHAT SURFACES CAN YOU CLEAN WITH PRESSURE WASHING?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
-<p>We can effectively clean a wide range of surfaces, including concrete, brick, stucco, wood, vinyl, and more. Our advanced pressure washing equipment and eco-friendly cleaning solutions can safely and effectively remove dirt, grime, mold, and other tough stains from any surface.</p>
+<div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">Why is digital marketing important for my Lexington, KY small business?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
+<p>Digital marketing, such as through SEO and social media, reaches a broader audience than traditional marketing methods. Online marketing methods target your specific service areas, allowing you to serve local customers better.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:getwid/accordion-item -->
 
 <!-- wp:getwid/accordion-item -->
-<div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">HOW OFTEN SHOULD I HAVE MY PROPERTY PRESSURE WASHED?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
-<p>We can effectively clean a wide range of surfaces, including concrete, brick, stucco, wood, vinyl, and more. Our advanced pressure washing equipment and eco-friendly cleaning solutions can safely and effectively remove dirt, grime, mold, and other tough stains from any surface</p>
+<div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">How does web marketing increase my sales?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
+<p>Creating an online presence is essential to broadening your customer base. By increasing your potential customers, you increase your potential sales. However, customers won't flip through the Yellow Pages when searching for your products and services. You'll need to ensure your company is where the customers are (Hint: the Internet).</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:getwid/accordion-item -->
 
 <!-- wp:getwid/accordion-item -->
-<div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">HOW OFTEN SHOULD I HAVE MY PROPERTY PRESSURE WASHED?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
-<p>We can effectively clean a wide range of surfaces, including concrete, brick, stucco, wood, vinyl, and more. Our advanced pressure washing equipment and eco-friendly cleaning solutions can safely and effectively remove dirt, grime, mold, and other tough stains from any surface.</p>
+<div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">Is digital marketing strategy right for my business?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
+<p>Do you struggle to answer customer calls? Do you lack starred reviews? Are you overpaying on your PPC ads and seeing little results? Your digital marketing strategy wholly depends on your business and your goals for it. At Creekmore, we offer comprehensive digital marketing plans to meet the individual needs of the companies we serve. Tell us about your business, and we'll build an online marketing strategy specific to you.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:getwid/accordion-item -->
 
 <!-- wp:getwid/accordion-item -->
-<div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">HOW OFTEN SHOULD I HAVE MY PROPERTY PRESSURE WASHED?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
-<p>We can effectively clean a wide range of surfaces, including concrete, brick, stucco, wood, vinyl, and more. Our advanced pressure washing equipment and eco-friendly cleaning solutions can safely and effectively remove dirt, grime, mold, and other tough stains from any surface.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:getwid/accordion-item -->
-
-<!-- wp:getwid/accordion-item -->
-<div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">HOW OFTEN SHOULD I HAVE MY PROPERTY PRESSURE WASHED?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
-<p>We can effectively clean a wide range of surfaces, including concrete, brick, stucco, wood, vinyl, and more. Our advanced pressure washing equipment and eco-friendly cleaning solutions can safely and effectively remove dirt, grime, mold, and other tough stains from any surface.</p>
+<div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">Why Wrightmarketsolution?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
+<p>While you and your competitors might offer similar products and services, we know no two small businesses are alike. We work alongside you to boost your business, and we don't confuse you with complicated graphs and fanciful figures: we care about the hard data of generated leads and increased sales. Whether you're a Lexington hardware store, locksmith, technical college, law firm, or at-home window treatment shop, we specialize in one thing: your success. </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:getwid/accordion-item --></div>
 <!-- /wp:getwid/accordion -->
 
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":"80px"} -->
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->

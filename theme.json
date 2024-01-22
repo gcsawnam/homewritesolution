@@ -14,7 +14,7 @@
 				},
                  {
 					"slug": "hover",
-					"color": "#2A934F",
+					"color": "#004AAC",
                     "name": "Hover"
                   },
                   {
@@ -24,7 +24,7 @@
                    },
 				   {
 					 "slug": "button-hover",
-					 "color": "#139b63",
+					 "color": "#004AAC",
 					 "name": "Button Hover"
 					},
 					{

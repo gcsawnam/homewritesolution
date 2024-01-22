@@ -5,10 +5,14 @@
  * Categories: featured
  */
 ?>
-<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"style":{"typography":{"fontSize":"25px","fontStyle":"normal","fontWeight":"500","lineHeight":"1.2"}}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:spacer {"height":"80px"} -->
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"style":{"typography":{"fontSize":"25px","fontStyle":"normal","fontWeight":"500","lineHeight":"1.2"}}} -->
 <h2 class="wp-block-heading" style="font-size:25px;font-style:normal;font-weight:500;line-height:1.2">360°&nbsp;Digital Marketing Agency Nepal</h2>
 <!-- /wp:heading -->
 
@@ -17,9 +21,9 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":12328,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-1.jpg" alt="" class="wp-image-12328"/></figure>
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":12328,"width":"406px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/marketing-1.jpg" alt="" class="wp-image-12328" style="width:406px;height:auto"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -30,8 +34,8 @@
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":12329,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-2.png" alt="" class="wp-image-12329"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":12329,"width":"375px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/marketing-2.png" alt="" class="wp-image-12329" style="width:375px;height:auto"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -46,7 +50,7 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:spacer {"height":"91px"} -->
-<div style="height:91px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":"80px"} -->
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->
