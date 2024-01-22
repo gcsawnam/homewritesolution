@@ -29,19 +29,19 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:video {"id":688} -->
-<figure class="wp-block-video"><video controls src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/BB-Photography-CM-Short-V1_2-v1-1.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="http://wrightmarketingteam.com/wp-content/themes/wright-market-solutions/assets/img/BB-Photography-CM-Short-V1_2-v1-1.mp4"></video></figure>
 <!-- /wp:video --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:video {"id":689} -->
-<figure class="wp-block-video"><video controls src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/BB-Photography-CM-Short-V1_2-v1-1-1.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="http://wrightmarketingteam.com/wp-content/themes/wright-market-solutions/assets/img/BB-Photography-CM-Short-V1_2-v1-1-1.mp4"></video></figure>
 <!-- /wp:video --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:video {"id":690} -->
-<figure class="wp-block-video"><video controls src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/BB-Photography-CM-Short-V1_2-v1-1-2.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="http://wrightmarketingteam.com/wp-content/themes/wright-market-solutions/assets/img/BB-Photography-CM-Short-V1_2-v1-1-2.mp4"></video></figure>
 <!-- /wp:video --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

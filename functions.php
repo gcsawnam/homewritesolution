@@ -39,12 +39,14 @@ if ( ! function_exists( 'wright_market_solutions_enqueue_scripts_and_styles' ) )
 		$styles = array(
 			'wright-market-solutions-style'         => array(get_stylesheet_uri(), array(), $version),
 			'wright-market-solutions-custom-css'    => array($template_assets_dir . '/css/custom.css', array(), $version),
-			'wright-market-solutions-fontawesome'   => array($template_assets_dir . '/css/font-awesome/css/all.css', array(), "5.15.3")	
+			'wright-market-solutions-fontawesome'   => array($template_assets_dir . '/css/font-awesome/css/all.css', array(), "5.15.3"),
+			'wright-market-solutions-animate'       => array($template_assets_dir . '/css/animate' . $min . '.css', array(), '3.7.0'),
 		);
 
 		// Scripts
 		$scripts = array(
 			'wright-market-solutions-custom'  => array($template_assets_dir . '/js/custom.js', array('jquery'), '1.0.0', true),
+			'wright-market-solutions-wow-js'        => array($template_assets_dir . '/js/wow' . $min . '.js', array(), '1.1.2', true),
 		);
 
 		// Enqueue Styles
