@@ -38,7 +38,7 @@
     });
          // typing text animation script
          var typed = new Typed(".typing", {
-          strings: ["Developer", "Blogger", "Wordpress Developer", "Freelancer"],
+          strings: ["Business Growth", "Revenue Generation", "Google Ranking", "Online Engagement"],
           typeSpeed: 100,
           backSpeed: 60,
           loop: true

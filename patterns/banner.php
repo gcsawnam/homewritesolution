@@ -20,8 +20,14 @@
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":1,"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.2","fontSize":"50px"},"color":{"text":"#004aac"},"elements":{"link":{"color":{"text":"#004aac"}}}}} -->
-<h1 class="wp-block-heading has-text-color has-link-color" style="color:#004aac;font-size:50px;font-style:normal;font-weight:700;line-height:1.2">Consistent Online&nbsp;Engagement</h1>
+<h1 class="wp-block-heading has-text-color has-link-color" style="color:#004aac;font-size:50px;font-style:normal;font-weight:700;line-height:1.2">Consistent</h1>
 <!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1,"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.2","fontSize":"50px"},"color":{"text":"#004aac"},"elements":{"link":{"color":{"text":"#004aac"}}}},"className":"typing"} -->
+<h1 class="wp-block-heading typing has-text-color has-link-color" style="color:#004aac;font-size:50px;font-style:normal;font-weight:700;line-height:1.2"> Online Engagement</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
 
 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|50"}},"color":{"text":"#25373f"},"elements":{"link":{"color":{"text":"#25373f"}}}}} -->
 <h5 class="wp-block-heading has-text-color has-link-color" style="color:#25373f;margin-top:var(--wp--preset--spacing--50)">Under One Roof</h5>
