@@ -150,3 +150,8 @@ background-color: var(--wp--preset--color--button-hover);
 .call-box{
     border-radius: 8px;
 }
+
+.typed-cursor{
+    color: #004AAC!important;
+  font-size: 40px;
+}
