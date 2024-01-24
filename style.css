@@ -58,11 +58,12 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         margin:0;
     }
     .bnrform form .wpcf7-form-control-wrap select{
-        width: 100%;
+        width: 102%;
         height: 45px;
         border: 1px solid #ddd;
         border-radius: 4px;
-        padding: 0px 15px;
+        padding-left: 9px;
+        padding-right: 16px;
         color: #746c6c;
         outline: 0px;
         box-shadow: none;
