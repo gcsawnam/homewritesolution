@@ -45,6 +45,7 @@ if ( ! function_exists( 'wright_market_solutions_enqueue_scripts_and_styles' ) )
 
 		// Scripts
 		$scripts = array(
+			'wright-market-solutions-typed'  => array($template_assets_dir . '/js/typed.min.js', array('jquery'), '2.0.9', true),
 			'wright-market-solutions-custom'  => array($template_assets_dir . '/js/custom.js', array('jquery'), '1.0.0', true),
 			'wright-market-solutions-wow-js'        => array($template_assets_dir . '/js/wow' . $min . '.js', array(), '1.1.2', true),
 		);

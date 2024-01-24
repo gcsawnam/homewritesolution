@@ -36,6 +36,13 @@
         $paragraph.hide();
       }
     });
+         // typing text animation script
+         var typed = new Typed(".typing", {
+          strings: ["Developer", "Blogger", "Wordpress Developer", "Freelancer"],
+          typeSpeed: 100,
+          backSpeed: 60,
+          loop: true
+      });
 
     // Initialize WOW.js animation library
     new WOW().init();
