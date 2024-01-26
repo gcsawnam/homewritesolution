@@ -87,10 +87,11 @@ span.page-numbers.dots + a.page-numbers{
     padding: 12px 10px;
     margin: 10px 4px;
 }
-
+.home-form .wpcf7-form-control.wpcf7-submit.has-spinner{
+    width: 50%;
+}
 .wpcf7-form-control.wpcf7-submit.has-spinner{
     background-color: var(--wp--preset--color--hover);
-    
     cursor: pointer;
     color: #fff;
     border: 0px;

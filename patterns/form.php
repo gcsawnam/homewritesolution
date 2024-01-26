@@ -25,7 +25,7 @@
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|40"}},"className":"row-form","layout":{"type":"constrained"}} -->
 <div class="wp-block-group row-form" style="margin-top:0;margin-bottom:0"><!-- wp:html -->
 <div class="row leave-phone">
- <h3>Ping us:																   <a href="tel:9801187428" style=" color:#004AAC">✆ 9801187428</a>								  								   							  </h3>					                         						
+				                         						
 <h3>Write us: <a href="mailto: sales@wrightmarketsolutions.com" style=" color:#004AAC;">✉ sales@wrightmarketsolutions.com</a>							   </h3>  </div>
 <!-- /wp:html --></div>
 <!-- /wp:group --></div>
@@ -33,9 +33,9 @@
 
 <!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column"><!-- wp:group {"style":{"color":{"background":"#f2fafa"},"border":{"radius":"5%"},"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="border-radius:5%;background-color:#f2fafa;margin-top:0;margin-bottom:0;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"66px","bottom":"20px","left":"35px","right":"57px"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:66px;padding-right:57px;padding-bottom:20px;padding-left:35px"><!-- wp:heading {"style":{"typography":{"fontSize":"1.55em","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"20px","bottom":"10px"}}}} -->
-<h2 class="wp-block-heading" style="margin-top:20px;margin-bottom:10px;font-size:1.55em;font-style:normal;font-weight:700">Reach Out us</h2>
+<div class="wp-block-group has-background" style="border-radius:5%;background-color:#f2fafa;margin-top:0;margin-bottom:0;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"28px","bottom":"20px","left":"35px","right":"57px"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:28px;padding-right:57px;padding-bottom:20px;padding-left:35px"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"800","fontSize":"26px","textTransform":"uppercase"},"spacing":{"margin":{"top":"0px","bottom":"10px"}}}} -->
+<h2 class="wp-block-heading" style="margin-top:0px;margin-bottom:10px;font-size:26px;font-style:normal;font-weight:800;text-transform:uppercase">Reach Out us</h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"className":"home-form","layout":{"type":"constrained"}} -->

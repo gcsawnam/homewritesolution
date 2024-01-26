@@ -11,12 +11,12 @@
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"50px","lineHeight":"1"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<h2 class="wp-block-heading has-text-align-center has-background-color has-text-color has-link-color" style="font-size:50px;font-style:normal;font-weight:700;line-height:1">Digital Marketing Services That We Provide</h2>
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1","fontSize":"26px","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
+<h2 class="wp-block-heading has-text-align-center has-background-color has-text-color has-link-color" style="font-size:26px;font-style:normal;font-weight:800;line-height:1;text-transform:uppercase">Digital Marketing Services That We Provide</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400"},"spacing":{"margin":{"top":"var:preset|spacing|30"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<p class="has-text-align-center has-background-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--30);font-size:18px;font-style:normal;font-weight:400">We are one of the best Digital Marketing Agency of Delhi and can take care of all your Digital Marketing Needs</p>
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"400"},"spacing":{"margin":{"top":"var:preset|spacing|30"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
+<p class="has-text-align-center has-background-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--30);font-size:16px;font-style:normal;font-weight:400">We are one of the best Digital Marketing Agency of Delhi and can take care of all your Digital Marketing Needs</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0","margin":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
@@ -30,8 +30,8 @@
 <!-- /wp:html --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.2"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:32px;font-style:normal;font-weight:700;line-height:1.2">Search Engine Optimization</h3>
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","fontSize":"26px","letterSpacing":"1px"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
+<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:26px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2">Search Engine Optimization</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"10px","right":"0","bottom":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}},"typography":{"lineHeight":"1.8"}},"textColor":"background"} -->
@@ -53,8 +53,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.2"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:32px;font-style:normal;font-weight:700;line-height:1.2">Ads Management</h3>
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"26px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","letterSpacing":"1px"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
+<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:26px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2">Ads Management</h3>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
@@ -76,8 +76,8 @@
 <!-- /wp:html --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.2"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:32px;font-style:normal;font-weight:700;line-height:1.2">Social Media Management</h3>
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"26px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","letterSpacing":"1px"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
+<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:26px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2">Social Media Management</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"10px","right":"0","bottom":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}},"typography":{"lineHeight":"1.8"}},"textColor":"background"} -->
@@ -102,8 +102,8 @@
 <!-- /wp:html --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.2"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","fontFamily":"poppins"} -->
-<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color has-poppins-font-family" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:32px;font-style:normal;font-weight:700;line-height:1.2">Content Writing</h3>
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"26px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","letterSpacing":"1px"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","fontFamily":"poppins"} -->
+<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color has-poppins-font-family" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:26px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2">Content Writing</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"10px","right":"0","bottom":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}},"typography":{"fontSize":"16px"}},"textColor":"background","fontFamily":"open-sans"} -->
@@ -124,8 +124,8 @@
 <!-- /wp:html --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.2"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","fontFamily":"poppins"} -->
-<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color has-poppins-font-family" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:32px;font-style:normal;font-weight:700;line-height:1.2">Local SEO</h3>
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"26px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","letterSpacing":"1px"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","fontFamily":"poppins"} -->
+<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color has-poppins-font-family" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:26px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2">Local SEO</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"10px","right":"0","bottom":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
@@ -146,8 +146,8 @@
 <!-- /wp:html --></div>
 <!-- /wp:group -->
 
-<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.2"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:32px;font-style:normal;font-weight:700;line-height:1.2">Lead Generation Company</h3>
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"30px","bottom":"20px"}},"typography":{"fontSize":"26px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","letterSpacing":"1px"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
+<h3 class="wp-block-heading has-text-align-left has-background-color has-text-color has-link-color" style="margin-top:30px;margin-bottom:20px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:26px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2">Lead Generation Company</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"10px","right":"0","bottom":"0","left":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->

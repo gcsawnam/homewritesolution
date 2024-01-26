@@ -1,4 +1,3 @@
-
 <?php
 /**
  * Title: Our Works
@@ -6,9 +5,9 @@
  * Categories: featured
  */
 ?>
-<!-- wp:group {"style":{"color":{"background":"#004aac"},"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="background-color:#004aac;padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"300","lineHeight":"1.1"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<h2 class="wp-block-heading has-text-align-center has-background-color has-text-color has-link-color" style="font-size:32px;font-style:normal;font-weight:300;line-height:1.1">Our Portfolio</h2>
+<!-- wp:group {"style":{"color":{"background":"#004aac"},"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|30","right":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background" style="background-color:#004aac;padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.1","fontSize":"26px","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
+<h2 class="wp-block-heading has-text-align-center has-background-color has-text-color has-link-color" style="font-size:26px;font-style:normal;font-weight:800;line-height:1.1;text-transform:uppercase">Our Portfolio</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}},"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"400","lineHeight":"1"}},"textColor":"background"} -->
@@ -19,10 +18,11 @@
 <div style="height:9px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"}}}} -->
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-1.jpg","id":592,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-592" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-1.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-column"><!-- wp:cover {"url":"http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-1.jpg","id":592,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-592" alt="" src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-1.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:html -->
 <div class="portfolio-overlay">
 
@@ -49,8 +49,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-2.jpg","id":594,"dimRatio":50,"minHeight":200,"className":"grid-item","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-594" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-2.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-column"><!-- wp:cover {"url":"http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-2.jpg","id":594,"dimRatio":50,"minHeight":200,"className":"grid-item","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-594" alt="" src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-2.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:html -->
 <div class="portfolio-overlay">
 
@@ -77,8 +77,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-3.jpg","id":595,"dimRatio":50,"minHeight":200,"className":"grid-item","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-595" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-3.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-column"><!-- wp:cover {"url":"http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-3.jpg","id":595,"dimRatio":50,"minHeight":200,"className":"grid-item","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-595" alt="" src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-3.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:html -->
 <div class="portfolio-overlay">
 
@@ -107,8 +107,8 @@
 
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-5.jpg","id":596,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-596" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-5.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-column"><!-- wp:cover {"url":"http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-5.jpg","id":596,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-596" alt="" src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-5.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:html -->
 <div class="portfolio-overlay">
 
@@ -135,8 +135,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-6.jpg","id":597,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-597" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-6.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-column"><!-- wp:cover {"url":"http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-6.jpg","id":597,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-597" alt="" src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-6.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:html -->
 <div class="portfolio-overlay">
 
@@ -163,8 +163,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-7.jpg","id":598,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-598" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-7.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-column"><!-- wp:cover {"url":"http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-7.jpg","id":598,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-598" alt="" src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-7.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:html -->
 <div class="portfolio-overlay">
 
@@ -193,8 +193,8 @@
 
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-8.jpg","id":599,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-599" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-8.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-column"><!-- wp:cover {"url":"http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-8.jpg","id":599,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-599" alt="" src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-8.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:html -->
 <div class="portfolio-overlay">
 
@@ -221,8 +221,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-9.jpg","id":600,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-600" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-9.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-column"><!-- wp:cover {"url":"http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-9.jpg","id":600,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-600" alt="" src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-9.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:html -->
 <div class="portfolio-overlay">
 
@@ -249,8 +249,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-4.jpg","id":602,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-602" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/portfolio-4.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-column"><!-- wp:cover {"url":"http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-4.jpg","id":602,"dimRatio":50,"minHeight":200,"isDark":false,"className":"grid-item","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light grid-item" style="min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-602" alt="" src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/portfolio-4.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:html -->
 <div class="portfolio-overlay">
 
@@ -276,4 +276,5 @@
 <!-- /wp:cover --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->

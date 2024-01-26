@@ -10,8 +10,8 @@
 <div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"48px","fontStyle":"normal","fontWeight":"600","lineHeight":"1"},"elements":{"link":{"color":{"text":"var:preset|color|black"}}},"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"textColor":"black","fontFamily":"kanit"} -->
-<h2 class="wp-block-heading has-text-align-center has-black-color has-text-color has-link-color has-kanit-font-family" style="margin-bottom:var(--wp--preset--spacing--50);font-size:48px;font-style:normal;font-weight:600;line-height:1">Frequently Asked Questions</h2>
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","fontSize":"26px","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|hover"}}},"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}},"textColor":"hover","fontFamily":"kanit"} -->
+<h2 class="wp-block-heading has-text-align-center has-hover-color has-text-color has-link-color has-kanit-font-family" style="margin-bottom:var(--wp--preset--spacing--50);font-size:26px;font-style:normal;font-weight:800;line-height:1.2;text-transform:uppercase">Frequently Asked Questions</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"40px"} -->
@@ -39,7 +39,7 @@
 
 <!-- wp:getwid/accordion-item -->
 <div class="wp-block-getwid-accordion__header-wrapper"><span class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">Why Wrightmarketsolution?</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></span></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content"><!-- wp:paragraph -->
-<p>While you and your competitors might offer similar products and services, we know no two small businesses are alike. We work alongside you to boost your business, and we don't confuse you with complicated graphs and fanciful figures: we care about the hard data of generated leads and increased sales. Whether you're a Lexington hardware store, locksmith, technical college, law firm, or at-home window treatment shop, we specialize in one thing: your success. </p>
+<p>While you and your competitors might offer similar products and services, we know no two small businesses are alike. We work alongside you to boost your business, and we don't confuse you with complicated graphs and fanciful figures: we care about the hard data of generated leads and increased sales. Whether you're a Lexington hardware store, locksmith, technical college, law firm, or at-home window treatment shop, we specialize in one thing: your success.&nbsp;</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:getwid/accordion-item --></div>
 <!-- /wp:getwid/accordion -->

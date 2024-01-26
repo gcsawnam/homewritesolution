@@ -10,16 +10,16 @@
 <div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"42px","fontStyle":"normal","fontWeight":"900","lineHeight":"1.5"},"color":{"text":"#59616f"},"elements":{"link":{"color":{"text":"#59616f"}}}}} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color" style="color:#59616f;font-size:42px;font-style:normal;font-weight:900;line-height:1.5">What our Customers Say....</h2>
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","fontSize":"26px","letterSpacing":"1px","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|hover"}}}},"textColor":"hover"} -->
+<h2 class="wp-block-heading has-text-align-center has-hover-color has-text-color has-link-color" style="font-size:26px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2;text-transform:uppercase">What our Customers Say....</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"12px"} -->
 <div style="height:12px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:separator {"className":"is-style-default"} -->
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-default"/>
+<!-- wp:separator {"backgroundColor":"hover","className":"is-style-default"} -->
+<hr class="wp-block-separator has-text-color has-hover-color has-alpha-channel-opacity has-hover-background-color has-background is-style-default"/>
 <!-- /wp:separator -->
 
 <!-- wp:spacer {"height":"20px"} -->

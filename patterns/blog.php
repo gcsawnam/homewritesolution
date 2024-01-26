@@ -6,12 +6,12 @@
  */
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontSize":"35px","fontStyle":"normal","fontWeight":"300","lineHeight":"1.2","letterSpacing":"5.5px"},"color":{"text":"#12222c"},"elements":{"link":{"color":{"text":"#12222c"}}}}} -->
-<h4 class="wp-block-heading has-text-align-center has-text-color has-link-color" style="color:#12222c;font-size:35px;font-style:normal;font-weight:300;letter-spacing:5.5px;line-height:1.2">HELPFUL DIGITAL MARKETING</h4>
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","letterSpacing":"1px","textTransform":"capitalize"},"color":{"text":"#12222c"},"elements":{"link":{"color":{"text":"#12222c"}}}}} -->
+<h4 class="wp-block-heading has-text-align-center has-text-color has-link-color" style="color:#12222c;font-size:32px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2;text-transform:capitalize">Helpful Digital Marketing</h4>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"50px","fontStyle":"normal","fontWeight":"900","lineHeight":"0.9"},"color":{"text":"#12222c"},"elements":{"link":{"color":{"text":"#12222c"}}}}} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color" style="color:#12222c;font-size:50px;font-style:normal;font-weight:900;line-height:0.9">TIPS, GUIDES AND STRATEGIES</h2>
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","fontSize":"26px","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|hover"}}},"spacing":{"margin":{"top":"var:preset|spacing|20"}}},"textColor":"hover"} -->
+<h2 class="wp-block-heading has-text-align-center has-hover-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--20);font-size:26px;font-style:normal;font-weight:800;line-height:1.2;text-transform:uppercase">TIPS, GUIDES AND STRATEGIES</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"62px"} -->
