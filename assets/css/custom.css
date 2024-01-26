@@ -89,11 +89,14 @@ span.page-numbers.dots + a.page-numbers{
 }
 
 .wpcf7-form-control.wpcf7-submit.has-spinner{
-    padding: 18px 17px;
     background-color: var(--wp--preset--color--hover);
-    color: #fff;
-    border: none;
+    
     cursor: pointer;
+    color: #fff;
+    border: 0px;
+    padding: 12px 25px;
+    border-radius: 5px;
+    font-weight: 500;
 }
 .wpcf7-form-control.wpcf7-submit.has-spinner:hover{
     background-color: var(--wp--preset--color--button-hover);
