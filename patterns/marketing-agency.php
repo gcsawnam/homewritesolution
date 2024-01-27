@@ -23,7 +23,7 @@
 
 <!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":12328,"width":"406px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/marketing-1.jpg" alt="" class="wp-image-12328" style="width:406px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-1.jpg" alt="" class="wp-image-12328" style="width:406px;height:auto"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -35,7 +35,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":12329,"width":"375px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/marketing-2.png" alt="" class="wp-image-12329" style="width:375px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-2.png" alt="" class="wp-image-12329" style="width:375px;height:auto"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
