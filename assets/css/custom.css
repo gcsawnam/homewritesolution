@@ -6,6 +6,18 @@
 }
 /* margin while block start end*/
 
+/* code of write solutions */
+
+.wp-block-categories-list.wp-block-categories .cat-item{
+    margin: 26px 0px;
+    
+}
+.wp-block-categories-list.wp-block-categories .cat-item a{
+    color: #000;
+}
+
+/* code of write solutions end */
+
 /*pagination*/
 .page-numbers.current{
     background: #E1E1E1!important;
@@ -58,9 +70,7 @@ span.page-numbers.dots + a.page-numbers{
     list-style-type: none;
     padding: 0px;
 }
-.wp-block-categories-list.wp-block-categories .cat-item{
-    margin: 3px 0px;
-}
+
 .wc-block-components-pagination__page{
     background: #F2F3F5!important;
     padding: 8px 15px;
