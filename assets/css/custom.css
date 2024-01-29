@@ -15,6 +15,15 @@
 .wp-block-categories-list.wp-block-categories .cat-item a{
     color: #000;
 }
+.friend-list::before{
+    content: "\f058"; /* Unicode for the specific Font Awesome icon */
+    font-size: 17px !important; /* Set the size of the icon */
+    margin-right: 14px !important; /* Adjust spacing */
+    font-family: 'Font Awesome 5 Free', sans-serif !important; /* Set the font-family specifically for this icon */
+    font-weight: 600 !important; 
+    color: #408EFF;
+}
+
 
 /* code of write solutions end */
 

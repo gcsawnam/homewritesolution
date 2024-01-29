@@ -326,8 +326,7 @@
 			},
 			"button": {
 				"typography": {
-					"lineHeight": "1.6",
-					"fontWeight": "500"
+					"lineHeight": "1.6"
 				},
 				"border": {
 					"radius": "2px"
