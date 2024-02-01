@@ -11,16 +11,16 @@
 <!-- /wp:spacer -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#012c7c"},"elements":{"link":{"color":{"text":"#012c7c"}}}},"fontSize":"medium"} -->
-<p class="has-text-align-center has-text-color has-link-color has-medium-font-size" style="color:#012c7c">Meet our team</p>
+<p class="has-text-align-center has-text-color has-link-color has-medium-font-size" style="color:#012c7c">Meet Our Team</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"800","fontSize":"26px"},"elements":{"link":{"color":{"text":"var:preset|color|hover"}}}},"textColor":"hover"} -->
-<h2 class="wp-block-heading has-text-align-center has-hover-color has-text-color has-link-color" style="font-size:26px;font-style:normal;font-weight:800">TEAM MEMBERS</h2>
+<h2 class="wp-block-heading has-text-align-center has-hover-color has-text-color has-link-color" style="font-size:26px;font-style:normal;font-weight:800"> Meet the Wright Market Solutions Team</h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30"}}},"layout":{"type":"constrained","contentSize":"75%"}} -->
 <div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--30)"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400"},"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"textColor":"black","fontSize":"medium"} -->
-<p class="has-text-align-center has-black-color has-text-color has-link-color has-medium-font-size" style="font-style:normal;font-weight:400">Do you want to meet awesome members of Orka Socials? Our talented niche-specific experts are all the way into making your business great. Follow them on their social media to look at their updates.</p>
+<p class="has-text-align-center has-black-color has-text-color has-link-color has-medium-font-size" style="font-style:normal;font-weight:400">Meet the talented team behind Wright Market Solutions. Our experts bring a wealth of knowledge and experience, driving the success of our digital marketing endeavors.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -32,7 +32,7 @@
 <div class="wp-block-columns"><!-- wp:column {"className":"member-card"} -->
 <div class="wp-block-column member-card"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"className":"team-first","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group team-first" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--60)"><!-- wp:image {"id":675,"width":"auto","height":"325px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="SEO-Specialist-Praphulla-Hada-Orka-Socials" class="wp-image-675" style="width:auto;height:325px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="SEO-Specialist-Praphulla-Hada-Orka-Socials" class="wp-image-675" style="width:auto;height:325px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"600","lineHeight":"1"},"color":{"text":"#444444"},"elements":{"link":{"color":{"text":"#444444"}}}}} -->
@@ -58,6 +58,10 @@
 <p class="has-text-color has-link-color has-medium-font-size" style="color:#757575;margin-top:var(--wp--preset--spacing--30);font-style:italic;font-weight:500;line-height:1.8">A website built on a poor foundation can lead to destructive impacts even though it has excellent content and backlinks. When optimizing the overall infrastructures of websites, Orka is proud of Praphulla. He looks at technical SEO as your foundation. He has a wide range of skill sets optimizing technical aspects of SEO.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"left","level":4,"style":{"typography":{"fontSize":"14px"},"elements":{"link":{"color":{"text":"#1868fe"}}},"color":{"text":"#1868fe"}}} -->
+<h4 class="wp-block-heading has-text-align-left has-text-color has-link-color" style="color:#1868fe;font-size:14px">Connect with Our Team on Social Media</h4>
+<!-- /wp:heading -->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:social-links {"customIconBackgroundColor":"#1868fe","iconBackgroundColorValue":"#1868fe"} -->
@@ -76,7 +80,7 @@
 <!-- wp:column {"className":"member-card"} -->
 <div class="wp-block-column member-card"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"className":"team-first","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group team-first" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--60)"><!-- wp:image {"id":698,"width":"auto","height":"325px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="SEO-Specialist-Praphulla-Hada-Orka-Socials" class="wp-image-698" style="width:auto;height:325px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="SEO-Specialist-Praphulla-Hada-Orka-Socials" class="wp-image-698" style="width:auto;height:325px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"600","lineHeight":"1"},"color":{"text":"#444444"},"elements":{"link":{"color":{"text":"#444444"}}}}} -->
@@ -102,6 +106,10 @@
 <p class="has-text-color has-link-color has-medium-font-size" style="color:#757575;margin-top:var(--wp--preset--spacing--30);font-style:italic;font-weight:500;line-height:1.8">A website built on a poor foundation can lead to destructive impacts even though it has excellent content and backlinks. When optimizing the overall infrastructures of websites, Orka is proud of Praphulla. He looks at technical SEO as your foundation. He has a wide range of skill sets optimizing technical aspects of SEO.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"left","level":4,"style":{"typography":{"fontSize":"14px"},"elements":{"link":{"color":{"text":"#1868fe"}}},"color":{"text":"#1868fe"}}} -->
+<h4 class="wp-block-heading has-text-align-left has-text-color has-link-color" style="color:#1868fe;font-size:14px">Connect with Our Team on Social Media</h4>
+<!-- /wp:heading -->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:social-links {"customIconBackgroundColor":"#1868fe","iconBackgroundColorValue":"#1868fe"} -->
@@ -120,7 +128,7 @@
 <!-- wp:column {"className":"member-card"} -->
 <div class="wp-block-column member-card"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60","top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"className":"team-first","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group team-first" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--60)"><!-- wp:image {"id":699,"width":"auto","height":"325px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="SEO-Specialist-Praphulla-Hada-Orka-Socials" class="wp-image-699" style="width:auto;height:325px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost/project/wp-content/themes/homewritesolution/assets/img/SEO-Specialist-Praphulla-Hada-Orka-Socials.png" alt="SEO-Specialist-Praphulla-Hada-Orka-Socials" class="wp-image-699" style="width:auto;height:325px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"600","lineHeight":"1"},"color":{"text":"#444444"},"elements":{"link":{"color":{"text":"#444444"}}}}} -->
@@ -146,6 +154,10 @@
 <p class="has-text-color has-link-color has-medium-font-size" style="color:#757575;margin-top:var(--wp--preset--spacing--30);font-style:italic;font-weight:500;line-height:1.8">A website built on a poor foundation can lead to destructive impacts even though it has excellent content and backlinks. When optimizing the overall infrastructures of websites, Orka is proud of Praphulla. He looks at technical SEO as your foundation. He has a wide range of skill sets optimizing technical aspects of SEO.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"left","level":4,"style":{"typography":{"fontSize":"14px"},"elements":{"link":{"color":{"text":"#1868fe"}}},"color":{"text":"#1868fe"}}} -->
+<h4 class="wp-block-heading has-text-align-left has-text-color has-link-color" style="color:#1868fe;font-size:14px">Connect with Our Team on Social Media</h4>
+<!-- /wp:heading -->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:social-links {"customIconBackgroundColor":"#1868fe","iconBackgroundColorValue":"#1868fe"} -->

@@ -11,7 +11,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","fontSize":"26px","letterSpacing":"1px","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|hover"}}}},"textColor":"hover"} -->
-<h2 class="wp-block-heading has-text-align-center has-hover-color has-text-color has-link-color" style="font-size:26px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2;text-transform:uppercase">What our Customers Say....</h2>
+<h2 class="wp-block-heading has-text-align-center has-hover-color has-text-color has-link-color" style="font-size:26px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2;text-transform:uppercase">What Our Clients Say</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"12px"} -->

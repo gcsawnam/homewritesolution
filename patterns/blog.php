@@ -6,12 +6,8 @@
  */
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","letterSpacing":"1px","textTransform":"capitalize"},"color":{"text":"#12222c"},"elements":{"link":{"color":{"text":"#12222c"}}}}} -->
-<h4 class="wp-block-heading has-text-align-center has-text-color has-link-color" style="color:#12222c;font-size:32px;font-style:normal;font-weight:800;letter-spacing:1px;line-height:1.2;text-transform:capitalize">Helpful Digital Marketing</h4>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","fontSize":"26px","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|hover"}}},"spacing":{"margin":{"top":"var:preset|spacing|20"}}},"textColor":"hover"} -->
-<h2 class="wp-block-heading has-text-align-center has-hover-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--20);font-size:26px;font-style:normal;font-weight:800;line-height:1.2;text-transform:uppercase">TIPS, GUIDES AND STRATEGIES</h2>
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.2","fontSize":"26px","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|hover"}}},"spacing":{"margin":{"top":"var:preset|spacing|20"}}},"textColor":"hover"} -->
+<h2 class="wp-block-heading has-text-align-center has-hover-color has-text-color has-link-color" style="margin-top:var(--wp--preset--spacing--20);font-size:26px;font-style:normal;font-weight:800;line-height:1.2;text-transform:uppercase">Expert Digital Marketing Tips, Guides, and Strategies</h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"62px"} -->
@@ -23,7 +19,7 @@
 <!-- wp:group {"style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"},"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"className":"blog-post-box-shadow","layout":{"type":"constrained"}} -->
 <div class="wp-block-group blog-post-box-shadow" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:post-terms {"term":"category","separator":"","className":"categories-section"} /-->
 
-<!-- wp:post-featured-image /-->
+<!-- wp:post-featured-image {"height":"220px"} /-->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","bottom":"var:preset|spacing|40"},"blockGap":"0"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--30)"><!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"700","lineHeight":"1.2"},"elements":{"link":{"color":{"text":"#12222c"}}},"color":{"text":"#12222c"},"spacing":{"margin":{"bottom":"0"},"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}}} /-->
