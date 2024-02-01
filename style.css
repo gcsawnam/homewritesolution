@@ -55,10 +55,13 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         font-size:15px;
         
     }
-    .bnrform form .wpcf7-form-control-wrap input::placeholder , .bnrform form .wpcf7-form-control-wrap textarea::placeholder{
-          padding-left: 10px; /* Adjust the value as needed */
+    .bnrform form .wpcf7-form-control-wrap input, .bnrform form .wpcf7-form-control-wrap textarea{
+          text-indent: 10px; /* Adjust the value as needed */
     
     } 
+    .bnrform form .wpcf7-form-control-wrap textarea::placeholder{
+        padding-top: 10px;
+    }
     form p{
         margin:0;
     }
@@ -88,10 +91,9 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
     }
     .home-form label
     {
-            padding-left: 3%;
         padding-bottom: 0;
         font-weight: bold;
-        color:#16b2ae;
+        color:#004AAC;
     
     }
     .home-form .wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 input[type="textarea"] {
@@ -108,7 +110,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         width: 100%;
         background-color: #fff;
         color: #444;
-        border: 2px solid #16b2ae;
+        border: 2px solid #004AAC;
         font-family: Poppins, sans-serif;
         font-size: 14px;
         
@@ -119,7 +121,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         width: 103%;
         padding: 1.5%;
         /* margin-left: 2%; */
-        border: 2px solid #16b2ae;
+        border: 2px solid #004AAC;
     }
     .nav-button a::before {
         content: "\f2a0"; /* Unicode for the specific Font Awesome icon */
@@ -241,7 +243,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
     .leave-phone h3 {
         font-weight: bold;
         font-size: 1.5rem;
-        color: #16b2ae;
+        color: #004AAC;
         text-align: center;
         margin: 20px 0 10px 0;
     }
@@ -514,4 +516,8 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
     font-weight: 800;
     line-height: 1.2;
 
+}
+/* mega menu css goees here  */
+#mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-megamenu > ul.mega-sub-menu {
+    margin-top: 26px;
 }
