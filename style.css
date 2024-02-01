@@ -141,7 +141,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
     
     }
     .medical-facilities{
-        height: 650px;
+        height:700px;
     }
     
     .service-button a{
@@ -290,10 +290,11 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
       }
     /* category css goes here  */
     .categories-section{
-        position: relative;
-        top: 50px;
+        position: absolute;
+        top: 21px;
         left: 25px;
-        z-index:99;
+        z-index: 99;
+    
     }
    
     .taxonomy-category a{
@@ -388,7 +389,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
     .contact-top input[type=text], .contact-top input[type=date], .contact-top .wpcf7 input[type="email"], .contact-form input[type=number], .contact-form input[type=tel] ,.contact-top .ctn-dropdown{
         background-color: #FFFFFF;
         color: #101820;
-        padding: 9px 11px 9px 11px;
+        padding: 17px 11px 17px 11px;
         border-style: solid;
         border-width: 1px 1px 1px 1px;
         border-color: #10182000;
@@ -399,6 +400,10 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
         line-height: 1.4em;
             box-shadow: 0px 1px 10px -5px rgba(0, 0, 0, 0.26);
         margin:6px 0px;
+        width: 95%;
+    }
+    .contact-top form{
+        margin: 0 32px;
     }
     .your-website{
         font-family: "lato", Sans-serif;
@@ -454,11 +459,11 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
     @media only screen and (min-width: 641px){
      .contact-top .wpcf7-textarea {
         height: 160px;
-         width:74%;
+         width:95%;
         }}
     @media only screen and (min-width: 641px){
     .contact-top .ctn-dropdown{
-        width:74%;
+        width:100%;
         }}
     .captche-color{
         color:#000;
@@ -470,6 +475,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
     .blog-post-box-shadow{
         overflow: hidden;
     box-shadow: 0 6px 20px rgba(0,0,0,.2);
+    position: relative;
 }
 .wp-block-post-excerpt__excerpt{
     font-size: 16px;
@@ -520,4 +526,7 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
 /* mega menu css goees here  */
 #mega-menu-wrap-max_mega_menu_1 #mega-menu-max_mega_menu_1 > li.mega-menu-megamenu > ul.mega-sub-menu {
     margin-top: 26px;
+}
+.typing{
+    height: 50px;
 }
