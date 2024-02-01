@@ -14,7 +14,7 @@
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
 <div class="wp-block-column"><!-- wp:image {"id":2300,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/wordpress/wp-content/uploads/2024/01/wave.png" alt="wave" class="wp-image-2300"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/wave.png" alt="wave" class="wp-image-2300"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"typography":{"fontSize":"42px","fontStyle":"normal","fontWeight":"900","lineHeight":"1.2"},"color":{"text":"#2e2e2e"},"elements":{"link":{"color":{"text":"#2e2e2e"}}}}} -->
@@ -52,7 +52,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2258,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost/wordpress/wp-content/uploads/2024/01/friend-reffer-banner.png" alt="friend-reffer-banner" class="wp-image-2258"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/friend-reffer-banner.png" alt="friend-reffer-banner" class="wp-image-2258"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
