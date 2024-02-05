@@ -1,8 +1,8 @@
 <!-- wp:template-part {"slug":"header","tagName":"header"} /-->
 <!-- wp:group {"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:cover {"url":"http://localhost/project/wp-content/uploads/2024/01/lukeandashley.com-71-1-Large.jpeg","id":167,"dimRatio":50,"layout":{"type":"constrained"}} -->
-    <div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-167" alt="" src="http://localhost/project/wp-content/uploads/2024/01/lukeandashley.com-71-1-Large.jpeg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
-    <p class="has-text-align-center has-large-font-size">The WriteMarket Blog</p>
+    <div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-167" alt="" src="http://localhost/project/wp-content/uploads/2024/01/lukeandashley.com-71-1-Large.jpeg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","style":{"typography":{"fontSize":"56px"}}} -->
+    <p class="has-text-align-center" style="font-size:56px">The WriteMarket Blog</p>
     <!-- /wp:paragraph --></div></div>
     <!-- /wp:cover --></div>
     <!-- /wp:group -->
@@ -14,15 +14,15 @@
     <h2 class="wp-block-heading has-text-color has-link-color" style="color:#212529;font-size:32px;font-style:normal;font-weight:600;line-height:1.2">All Posts</h2>
     <!-- /wp:heading -->
     
-    <!-- wp:categories {"style":{"typography":{"fontSize":"18px"}}} /--></div>
+    <!-- wp:categories {"className":"blog-page","style":{"typography":{"fontSize":"18px"}}} /--></div>
     <!-- /wp:column -->
     
     <!-- wp:column {"width":"70%"} -->
-    <div class="wp-block-column" style="flex-basis:70%"><!-- wp:query {"queryId":48,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
-    <div class="wp-block-query"><!-- wp:post-template -->
-    <!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"color":{"background":"#f7f7f7"}}} -->
-    <div class="wp-block-columns has-background" style="background-color:#f7f7f7;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column {"width":"35%"} -->
-    <div class="wp-block-column" style="flex-basis:35%"><!-- wp:post-featured-image /--></div>
+    <div class="wp-block-column" style="flex-basis:70%"><!-- wp:query {"queryId":48,"query":{"perPage":"4","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+    <div class="wp-block-query"><!-- wp:post-template {"layout":{"type":"default"}} -->
+    <!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"color":{"background":"#f7f7f7"}}} -->
+    <div class="wp-block-columns is-not-stacked-on-mobile has-background" style="background-color:#f7f7f7;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column {"width":"35%"} -->
+    <div class="wp-block-column" style="flex-basis:35%"><!-- wp:post-featured-image {"width":"","height":"288px"} /--></div>
     <!-- /wp:column -->
     
     <!-- wp:column {"width":"65%"} -->

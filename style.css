@@ -530,3 +530,29 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
 .typing{
     height: 50px;
 }
+
+
+/* blog page css goes here  */
+.blog-page .cat-item {
+    position: relative;
+}
+.blog-page .cat-item a::after{
+    content: '';
+    position: absolute;
+    width: 0px;
+    height: 4px;
+    background-color: #C58440;
+    bottom: -3px;
+    left: 0;
+    opacity: 0;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.blog-page .cat-item a:hover::after{
+    width: 45px;
+    opacity: 1;
+    visibility: visible;
+}
