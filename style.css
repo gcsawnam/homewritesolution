@@ -530,3 +530,16 @@ Tags: editor-style, blog, custom-background, custom-logo, custom-menu, e-commerc
 .typing{
     height: 50px;
 }
+
+.seperator-line{
+    border-bottom: 1px solid #C3C3C3;
+}
+.idustry-column{
+    border-radius: 15px;
+    border: 1px solid #c3c3c3;
+}
+
+.idustry-column:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid transparent;
+}
