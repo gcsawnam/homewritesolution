@@ -183,3 +183,41 @@ background-color: var(--wp--preset--color--button-hover);
     color: #004AAC!important;
   font-size: 40px;
 }
+
+
+/* refer a friend page css goes here  */
+.uacf7-form-449 ,.uacf7-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.uacf7-col-4 .text-field{
+    border: 1px solid #F0F6FF !important;
+    border-radius: 10px !important;
+    padding: 12px !important;
+    font-size: 14px !important;
+    background-color: #F0F6FF !important;
+    width: 100%;
+    margin: 10px 0px;
+}
+form .uacf7-col-4 {
+    padding-left: 25px;
+    padding-right: 25px;
+    width: unset;
+}
+form .refer-text{
+    font-weight: 600;
+    font-size: 16px;
+    color: #212121;
+    margin-bottom: 5px;
+}
+.wpcf7-form label{
+    padding: unset !important;
+}
+.refer-form form p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
