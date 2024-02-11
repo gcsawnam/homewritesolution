@@ -221,3 +221,8 @@ form .refer-text{
     margin-top: 30px;
     margin-bottom: 15px;
 }
+/* industry page css goes here  */
+@media (min-width: 1200px){
+.industry-content-heading{
+    font-size: 84px;
+}}

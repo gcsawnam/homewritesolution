@@ -6,16 +6,16 @@
  */
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"right":"24px","left":"24px"},"margin":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}},"color":{"background":"#0f2a4d"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group has-background" style="background-color:#0f2a4d;margin-top:var(--wp--preset--spacing--70);margin-bottom:var(--wp--preset--spacing--70);padding-right:24px;padding-left:24px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|50","padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"layout":{"type":"constrained","contentSize":"85%"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--30)"><!-- wp:columns -->
+<div class="wp-block-group has-background" style="background-color:#0f2a4d;margin-top:var(--wp--preset--spacing--70);margin-bottom:var(--wp--preset--spacing--70);padding-right:24px;padding-left:24px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20","top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--20)"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"86%","style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column" style="flex-basis:86%"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|60"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.1"},"color":{"text":"#4d75b9"},"elements":{"link":{"color":{"text":"#4d75b9"}}}},"fontSize":"small"} -->
 <p class="has-text-color has-link-color has-small-font-size" style="color:#4d75b9;font-style:normal;font-weight:700;line-height:1.1">HOME</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"84px","fontStyle":"normal","fontWeight":"900","lineHeight":"1"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background"} -->
-<h1 class="wp-block-heading has-background-color has-text-color has-link-color" style="font-size:84px;font-style:normal;font-weight:900;line-height:1">Resources for Your Industry</h1>
+<!-- wp:heading {"level":1,"style":{"typography":{"fontStyle":"normal","fontWeight":"900","lineHeight":"1"},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"textColor":"background","className":"industry-content-heading"} -->
+<h1 class="wp-block-heading industry-content-heading has-background-color has-text-color has-link-color" style="font-style:normal;font-weight:900;line-height:1">Resources for Your Industry</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#ced4da"}}},"color":{"text":"#ced4da"},"typography":{"lineHeight":"1.7","fontSize":"21px","fontStyle":"normal","fontWeight":"400"}}} -->

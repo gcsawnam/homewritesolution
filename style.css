@@ -170,9 +170,7 @@ form p {
 
 }
 
-.medical-facilities {
-    height: 700px;
-}
+
 
 .service-button a {
     font-size: 14px;
@@ -705,4 +703,93 @@ li:nth-child(even) .taxonomy-category a {
         align-items: center;
         justify-content: center;
     }
+}
+.seperator-line{
+    border-bottom: 1px solid #C3C3C3;
+}
+.idustry-column{
+    border-radius: 15px;
+    border: 1px solid #c3c3c3;
+}
+
+.idustry-column:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid transparent;
+}
+/* mobile view hideen item  */
+
+@media (max-width: 1100px) {
+	.hidden-item{
+		display:none !important;
+	}
+	.banner-cover img.wp-block-cover__image-background{
+		display:none;
+	}
+}
+
+@media (max-width: 782px) {
+	.marketing-agency-wrap{
+		flex-wrap:wrap-reverse !important;
+	}
+	.marketing-agency-wrap .wp-block-column h2,.marketing-agency-wrap .wp-block-column p{
+		text-align:left;
+	}
+	 .client-section .wp-block-column.clients-img{
+		flex-basis:unset !important;
+		width:33.3333%;
+	}
+}
+@media (max-width: 400px) {
+	 .client-section .wp-block-column.clients-img{
+		width:100%;
+	}
+}
+
+.bnrform form .wpcf7-form-control-wrap .wpcf7-textarea::placeholder{
+	text-indent:10px;
+}
+
+/* load more button css goes here */
+.btn.loadMoreBtn{
+	    display: flex;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 40px;
+    color: white;
+}
+.loadMoreBtn-label{
+	    background: red;
+    padding: 8px 56px;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+@media (max-width: 1024px) {
+.wp-block-group.medical-facilities {
+        padding: 50px 20px 50px 20px !important;
+}
+	}
+@media (max-width: 765px) {
+.wp-block-group.medical-facilities {
+        padding: 50px 35px 50px 35px !important;
+}
+	}
+
+.service-height {
+    height: 600px;
+}
+
+@media (max-width: 782px) {
+	
+.service-height {
+    height: 420px;
+}
+}
+@media (max-width: 522px) {
+	
+.service-height {
+    height: 520px;
+}
 }
