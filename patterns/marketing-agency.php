@@ -32,8 +32,8 @@
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
+<!-- wp:columns {"className":"marketing-agency-wrap"} -->
+<div class="wp-block-columns marketing-agency-wrap"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":411,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-2.png" alt="" class="wp-image-411" style="object-fit:cover"/></figure>
 <!-- /wp:image --></div>

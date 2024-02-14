@@ -15,8 +15,8 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":null} -->
-<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","className":"clients-img"} -->
+<div class="wp-block-group"><!-- wp:columns {"className":"client-section"} -->
+<div class="wp-block-columns client-section"><!-- wp:column {"verticalAlignment":"center","className":"clients-img"} -->
 <div class="wp-block-column is-vertically-aligned-center clients-img"><!-- wp:image {"align":"center","id":421,"scale":"cover","sizeSlug":"full","linkDestination":"custom","className":"client-img"} -->
 <figure class="wp-block-image aligncenter size-full client-img"><a href="https://chromepressurewashing.com/"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/chrome.png" alt="" class="wp-image-421" style="object-fit:cover"/></a></figure>
 <!-- /wp:image --></div>
@@ -36,36 +36,64 @@
 
 <!-- wp:column {"verticalAlignment":"center","className":"clients-img"} -->
 <div class="wp-block-column is-vertically-aligned-center clients-img"><!-- wp:image {"align":"center","id":425,"scale":"cover","sizeSlug":"full","linkDestination":"custom","className":"client-img"} -->
-<figure class="wp-block-image aligncenter size-full client-img"><a href="https://pressurewashingllc.com/"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/MJ.png" alt="" class="wp-image-425" style="object-fit:cover"/></a></figure>
+<figure class="wp-block-image aligncenter size-full client-img"><a href="https://mjpressurewashingllc.com/?fbclid=IwAR1jIcMtDXjHhwvAibLDaelIM4H-bZVD1a_PB7TK21FC-D3EoIdGUZqF35s"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/MJ.png" alt="" class="wp-image-425" style="object-fit:cover"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns {"verticalAlignment":null} -->
-<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","className":"clients-img"} -->
+<!-- wp:columns {"className":"client-section"} -->
+<div class="wp-block-columns client-section"><!-- wp:column {"verticalAlignment":"center","className":"clients-img "} -->
 <div class="wp-block-column is-vertically-aligned-center clients-img"><!-- wp:image {"align":"center","id":436,"scale":"cover","sizeSlug":"full","linkDestination":"custom","className":"client-img"} -->
-<figure class="wp-block-image aligncenter size-full client-img"><a href="#"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/Moores-Pressure-Washing.png" alt="" class="wp-image-436" style="object-fit:cover"/></a></figure>
+<figure class="wp-block-image aligncenter size-full client-img"><a href="https://moorespressurewashingky.com/?fbclid=IwAR14kbPA2Y87aj0JWqDb1ECzsdr3dqAnPfOpxbHJqcGYnRNU_RIpp-4ogMM"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/Moores-Pressure-Washing.png" alt="" class="wp-image-436" style="object-fit:cover"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","className":"clients-img"} -->
+<!-- wp:column {"verticalAlignment":"center","className":"clients-img "} -->
 <div class="wp-block-column is-vertically-aligned-center clients-img"><!-- wp:image {"align":"center","id":428,"scale":"cover","sizeSlug":"full","linkDestination":"custom","className":"client-img"} -->
 <figure class="wp-block-image aligncenter size-full client-img"><a href="http://stellarstripeslinestriping.com/"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/stellar.png" alt="" class="wp-image-428" style="object-fit:cover"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","className":"clients-img"} -->
+<!-- wp:column {"verticalAlignment":"center","className":"clients-img "} -->
 <div class="wp-block-column is-vertically-aligned-center clients-img"><!-- wp:image {"align":"center","id":431,"width":"188px","height":"126px","scale":"cover","sizeSlug":"full","linkDestination":"custom","className":"client-img"} -->
 <figure class="wp-block-image aligncenter size-full is-resized client-img"><a href="https://cvalinestriping.com/"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/cva.png" alt="" class="wp-image-431" style="object-fit:cover;width:188px;height:126px"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","className":"clients-img"} -->
+<!-- wp:column {"verticalAlignment":"center","className":"clients-img "} -->
 <div class="wp-block-column is-vertically-aligned-center clients-img"><!-- wp:image {"align":"center","id":437,"sizeSlug":"full","linkDestination":"custom"} -->
 <figure class="wp-block-image aligncenter size-full"><a href="https://northernfungi.com.np/ "><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/Northern-Fungi-1.png" alt="" class="wp-image-437"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"className":"client-section"} -->
+<div class="wp-block-columns client-section"><!-- wp:column {"verticalAlignment":"center","className":"clients-img "} -->
+<div class="wp-block-column is-vertically-aligned-center clients-img"><!-- wp:image {"align":"center","id":557,"scale":"cover","sizeSlug":"full","linkDestination":"custom","className":"client-img"} -->
+<figure class="wp-block-image aligncenter size-full client-img"><img src="https://wrightmarketingteam.com/wp-content/uploads/2024/02/1.png" alt="" class="wp-image-557" style="object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"clients-img "} -->
+<div class="wp-block-column is-vertically-aligned-center clients-img"><!-- wp:image {"align":"center","id":558,"scale":"cover","sizeSlug":"full","linkDestination":"custom","className":"client-img"} -->
+<figure class="wp-block-image aligncenter size-full client-img"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/2.png" alt="" class="wp-image-558" style="object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"clients-img "} -->
+<div class="wp-block-column clients-img"><!-- wp:image {"align":"center","id":559,"width":"188px","height":"126px","scale":"cover","sizeSlug":"full","linkDestination":"custom","className":"client-img"} -->
+<figure class="wp-block-image aligncenter size-full is-resized client-img"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/3.png" alt="" class="wp-image-559" style="object-fit:cover;width:188px;height:126px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"clients-img "} -->
+<div class="wp-block-column is-vertically-aligned-center clients-img"></div>
+<!-- /wp:column --></div>
 <!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"></div>
 <!-- /wp:group -->
 
 <!-- wp:spacer {"height":"80px"} -->

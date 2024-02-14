@@ -25,6 +25,8 @@
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":2826,"width":"328px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full is-resized"><img src="http://localhost/wordpress/wp-content/uploads/2024/02/cva.png" alt="" class="wp-image-2826" style="width:328px;height:auto"/></figure>
+<div class="wp-block-group"><!-- wp:image {"id":2826,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/cva.png" alt="" class="wp-image-2826"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
