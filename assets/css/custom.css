@@ -226,3 +226,12 @@ form .refer-text{
 .industry-content-heading{
     font-size: 84px;
 }}
+
+.has-before-icon::before{
+        content: "\f058"; /* Unicode for the specific Font Awesome icon */
+        font-size: 17px !important; /* Set the size of the icon */
+        margin-right: 14px !important; /* Adjust spacing */
+        font-family: 'Font Awesome 5 Free', sans-serif !important; /* Set the font-family specifically for this icon */
+        font-weight: 600 !important; 
+        color: #408EFF;
+}

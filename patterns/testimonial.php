@@ -38,7 +38,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":253,"width":"363px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://wrightmarketingteam.com/wp-content/uploads/2024/01/3298099085884037069-head.png" alt="" class="wp-image-253" style="object-fit:cover;width:363px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/3298099085884037069-head.png" alt="" class="wp-image-253" style="object-fit:cover;width:363px;height:auto"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

@@ -23,7 +23,7 @@
 
 <!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"align":"center","id":12328,"width":"406px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://wrightmarketingteam.com/wp-content/themes/homewritesolution/assets/img/marketing-1.jpg" alt="marketing-1" class="wp-image-12328" style="width:406px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-1.jpg" alt="marketing-1" class="wp-image-12328" style="width:406px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -35,7 +35,7 @@
 <!-- wp:columns {"className":"marketing-agency-wrap"} -->
 <div class="wp-block-columns marketing-agency-wrap"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":411,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="http://wrightmarketingteam.com/wp-content/themes/homewritesolution/assets/img/marketing-2.png" alt="" class="wp-image-411" style="object-fit:cover"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-2.png" alt="" class="wp-image-411" style="object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -67,7 +67,7 @@
 
 <!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"align":"center","id":412,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="http://wrightmarketingteam.com/wp-content/themes/homewritesolution/assets/img/marketing-3.png" alt="" class="wp-image-412" style="object-fit:cover"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/marketing-3.png" alt="" class="wp-image-412" style="object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
