@@ -43,7 +43,7 @@
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":2954,"width":"350px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/wordpress/wp-content/uploads/2024/02/media-5-1.jpg" alt="" class="wp-image-2954" style="width:350px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/media-5-1.jpg" alt="" class="wp-image-2954" style="width:350px;height:auto"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

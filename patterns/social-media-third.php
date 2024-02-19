@@ -18,7 +18,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":2884,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="http://localhost/wordpress/wp-content/uploads/2024/02/media-3-1.png" alt="" class="wp-image-2884"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/media-3-1.png" alt="" class="wp-image-2884"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 

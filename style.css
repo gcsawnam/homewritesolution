@@ -794,3 +794,19 @@ li:nth-child(even) .taxonomy-category a {
 }
 }
 
+/* clients logo section pattern  */
+
+.clients-logo .wp-block-image{
+    display: flex;
+    justify-content: center;
+}
+
+/* cta-4 pattern css */
+
+@media (max-width: 1105px) {
+	.cta-4{
+        display: grid !important;
+		grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+        justify-content: center;
+	}
+}

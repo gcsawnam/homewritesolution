@@ -9,7 +9,7 @@
 <div class="wp-block-group" style="padding-top:50px;padding-bottom:50px"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":2924,"width":"350px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/wordpress/wp-content/uploads/2024/02/media-4-1.png" alt="" class="wp-image-2924" style="width:350px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/media-4-1.png" alt="" class="wp-image-2924" style="width:350px;height:auto"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
