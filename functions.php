@@ -41,6 +41,7 @@ if ( ! function_exists( 'wright_market_solutions_enqueue_scripts_and_styles' ) )
 			'wright-market-solutions-custom-css'    => array($template_assets_dir . '/css/custom.css', array(), $version),
 			'wright-market-solutions-fontawesome'   => array($template_assets_dir . '/css/font-awesome/css/all.css', array(), "5.15.3"),
 			'wright-market-solutions-animate'       => array($template_assets_dir . '/css/animate' . $min . '.css', array(), '3.7.0'),
+			'wright-market-solutions-bootstrap'       => array('https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css', array(), '5.3.2')
 		);
 
 		// Scripts
