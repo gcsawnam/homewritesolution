@@ -5,7 +5,8 @@
  * Categories: featured
  */
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/img/social-Header-Img.jpg","id":3055,"dimRatio":0,"isDark":false} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-3055" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/social-Header-Img.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--40)"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
 <div class="wp-block-column"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#0d1333"}}},"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"70px","lineHeight":"1.1"},"color":{"text":"#0d1333"}}} -->
@@ -22,13 +23,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":2826,"width":"328px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/cva.png" alt="" class="wp-image-2826" style="width:328px;height:auto"/></figure>
-<div class="wp-block-group"><!-- wp:image {"id":2826,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/cva.png" alt="" class="wp-image-2826"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:group --></div>
+<div class="wp-block-column"></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
-<!-- /wp:group -->
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
